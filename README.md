@@ -15,12 +15,12 @@ GloVe Embeddings: glove.6B.50d.txt
 
 2. Install the required packages
 
-   `pip install numpy pandas tensorflow scikit-learn'<br />
+   `pip install numpy pandas tensorflow scikit-learn`<br />
 
 ## Result
-Model Summary: Provides an overview of the model architecture and parameters.
-Training Accuracy: Achieved high accuracy during the training process.
-Validation Accuracy: The model shows reliable performance on validation data.
+. Model Summary: Provides an overview of the model architecture and parameters.
+. Training Accuracy: Achieved high accuracy during the training process.
+. Validation Accuracy: The model shows reliable performance on validation data.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
