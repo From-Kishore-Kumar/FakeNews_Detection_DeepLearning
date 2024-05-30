@@ -4,8 +4,8 @@
 This project demonstrates a fake news detection model using TensorFlow in Python. The model processes news article data, uses word embeddings for representation, and leverages a neural network for classification, distinguishing between fake and real news.
 
 ## Dataset
-News Dataset: news.csv
-GloVe Embeddings: glove.6B.50d.txt
+News Dataset: [news.csv](https://drive.google.com/file/d/1XoHoUjZtLQ6gh_CPv9_igtZoEsdkgq3t/view) <br />
+GloVe Embeddings: [glove.6B.50d.txt](https://drive.google.com/file/d/1ekbxlI_GdF3H_XHS8U2Csj5q5AhNXhMp/view)
 
 ## Installation
 1. Clone this repository
